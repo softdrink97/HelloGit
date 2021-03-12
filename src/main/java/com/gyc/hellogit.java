@@ -7,5 +7,6 @@ public class hellogit {
         System.out.println("创建分支1");
         System.out.println("主干添加1");
         System.out.println("分支添加1");
+        System.out.println("在线修改");
     }
 }
