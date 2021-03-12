@@ -5,5 +5,6 @@ public class hellogit {
         System.out.println("hello,git");
         System.out.println("版本更新1");
         System.out.println("创建分支1");
+        System.out.println("分支添加1");
     }
 }
